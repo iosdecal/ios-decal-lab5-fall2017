@@ -17,24 +17,23 @@ Before adding Firebase to your Xcode project, you'll need to create a new applic
 
 ### Creating a new Firebase project and configuring access settings
 
-Sign in using your berkeley.edu email, and click the "Go to Console" Button.
+Sign in at https://firebase.google.com/ using your berkeley.edu email, and click the "Go to Console" Button. You should see a screen like this:
 
 ![Firebase console launch screen](/README-images/1.png)
 
-Once here, create a new project with the name "Snapchat Clone"
+Once here, add a new project with the name "Snapchat Clone" and then click "Create Project".
 
 ![Firebase console add new project screen](/README-images/2.png)
 
-This will open up a console for your new project. You'll be coming back here to access your Realtime Database (which you'll be using later in this project.
+This will open up a console for your new project. You'll be coming back here to access your Realtime Database later in the project, but right now you'll just need to update your app permissions so that we are able to access your database as well.
 
-Open the settings tab (cog gear icon) and click "Users and Permissions"
+To do this, open the settings tab (cog gear icon) and click "Users and Permissions"
 
 ![Firebase console add new project screen](/README-images/3.png)
 
 Then grant "Owner" permissions to the email iosdecalstaff@gmail.com. Once added, the email should show up in "Members" list.
 
 ![Users and Permissions Tab button](/README-images/3.png)
-
 
 ### Firebase xcodeproject integration
 
