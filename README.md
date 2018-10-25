@@ -1,8 +1,5 @@
-#  hw4 part 2- Firebase #
-Snapachat Clone Project 3
-
-## Due Date #
-November 6, 2017 at 11:59pm
+#  Lab 5 - Firebase #
+Snapachat Clone Project
 
 ## Overview
 
